@@ -1,0 +1,29 @@
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Cardápio Hamburgueria Online.exe
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Cardápio Hamburgueria Online.deps.json
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Cardápio Hamburgueria Online.runtimeconfig.json
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Cardápio Hamburgueria Online.runtimeconfig.dev.json
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Cardápio Hamburgueria Online.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\ref\Cardápio Hamburgueria Online.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Cardápio Hamburgueria Online.pdb
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.csproj.AssemblyReference.cache
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio_Hamburgueria_Online.Form1.resources
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio_Hamburgueria_Online.Properties.Resources.resources
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.csproj.GenerateResource.cache
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.AssemblyInfoInputs.cache
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.AssemblyInfo.cs
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.csproj.CoreCompileInputs.cache
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\ref\Cardápio Hamburgueria Online.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.pdb
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.genruntimeconfig.cache
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio_Hamburgueria_Online.SistemaPrincipal.resources
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\minec\Desktop\Cardapio CSHARP\Cardápio Hamburgueria Online\Cardápio Hamburgueria Online\obj\Debug\net5.0-windows\Cardápio Hamburgueria Online.csproj.CopyComplete
